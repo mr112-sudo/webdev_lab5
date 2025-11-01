@@ -1,2 +1,2 @@
 # webdev_lab5
-Code of lab 5
+This repository contains the code needed to complete lab 5
